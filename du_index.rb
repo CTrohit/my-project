@@ -1,4 +1,4 @@
-
+#first occurrence index 
 
 #! user/bin/ruby
 class Index
